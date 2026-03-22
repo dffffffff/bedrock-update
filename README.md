@@ -85,8 +85,7 @@ Add the following — the server is stopped at 02:58, the update script runs at 
 To trigger the script manually, run it as the `mc` user:
 
 ```bash
-su - mc
-/home/mc/update.sh
+./update.sh
 ```
 
 ---
